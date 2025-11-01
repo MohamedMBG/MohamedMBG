@@ -1,0 +1,16 @@
+<!doctype html><html><head><meta charset="utf-8">
+<title>Opening the app…</title><meta name="viewport" content="width=device-width,initial-scale=1">
+<script>
+ (function(){
+   const t = new URLSearchParams(location.search).get('token')||'';
+   const deep = 'myapp://verify?token='+encodeURIComponent(t);
+   location.href = deep;
+   setTimeout(()=>{document.getElementById('f').style.display='block';
+     const a=document.getElementById('a'); a.href=deep; a.textContent=deep;},1500);
+ })();
+</script>
+<style>body{font-family:system-ui,Roboto,Arial;margin:24px}</style>
+</head><body>
+<h2>Opening the app…</h2>
+<p id="f" style="display:none">If nothing happens, tap: <a id="a" href="#"></a></p>
+</body></html>
