@@ -59,11 +59,12 @@ Currently, I specialize in building robust ecosystems using **Laravel, React, an
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMBG&show_icons=true&theme=dracula&hide_border=true)](https://github.com/MohamedMBG)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=dracula&hide_border=true)](https://github.com/MohamedMBG)
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedMBG&show_icons=true&theme=dracula&hide_border=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=dracula&hide_border=true" height="180" alt="Top Languages" />
 
 </div>
