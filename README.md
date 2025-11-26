@@ -1,44 +1,69 @@
+<div align="center">
 
-# Hi there, I’m **BAGHDAD Mohamed** 👋
+# Hi there, I’m **Mohamed BAGHDAD** 👋
 
-## 👨‍💻 About me
+### 👨‍💻 Full-Stack Software Engineer | Mobile & Web Developer
+*Based in Rabat, Morocco 🇲🇦*
 
-I’m a software‑engineering student from **Morocco (Africa/Rabat)**. I started my journey through the **ALX/Holberton School full‑stack engineering programme**, where the early projects (for example, `alx-pre_course` and `alx-zero_day`) introduced me to C, Python and shell scripting. Since then I’ve been building web and mobile applications, exploring Laravel, React, Java, Firebase, and face recognition APIs.
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:baghdadmohamed.me@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-MaxTeam%20Visual-blue?style=flat-square&logo=google-chrome)](https://maxteamvisual.com/)
 
 ---
 
-## 🚀 My Learning Journey
+</div>
 
-Currently, I'm working on:
-- A face-verification powered Android car rental application (live selfie + license scan)
-- A portfolio website for audiovisual firm [MaxTeam Visual](https://maxteamvisual.com/)
-- A SaaS version of my car rental system for use in Morocco and Saudi Arabia
-- A project manager web app with deadlines, client lists, and financial tracking
+## 🧐 About Me
+
+I’m a software engineering student passionate about bridging the gap between **Web Development** and **AI Integration**. My journey began at **ALX/Holberton School**, where I built a strong foundation in C, Python, and Shell.
+
+Currently, I specialize in building robust ecosystems using **Laravel, React, and Android**, with a specific focus on **Biometric Security (Face Recognition)**.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+**Frameworks & Mobile**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+**Cloud, Database & AI**
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 🚀 Currently Building
+
+- 🚗 **Biometric Car Rental SaaS:** An Android/Web ecosystem with live selfie + license scanning for markets in Morocco & Saudi Arabia.
+- 🎨 **[MaxTeam Visual](https://maxteamvisual.com/):** A portfolio website for an audiovisual firm.
+- 📊 **Project Manager Pro:** A comprehensive web app for tracking deadlines, client lists, and finances.
 
 ---
 
 ## 🌟 Featured Projects
 
-- **[CarRentingTest](https://github.com/MohamedMBG/CarRentingTest)**: Android app with face verification
-- **[restaurant_booking](https://github.com/MohamedMBG/restaurant_booking)**: Booking system with clean frontend
-- **[Face_recognition](https://github.com/MohamedMBG/Face_recognition)**: Real-time face comparison demo
-- **[project_manager](https://github.com/MohamedMBG/project_manager)**: Project dashboard with client/task views
-
----
-
-## 💡 Skills
-
-`Java` `Firebase` `Android Studio` `Laravel` `PHP` `JavaScript` `React` `MySQL` `FireStore` `FaceNet` `Azure Face API`
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[CarRentingTest](https://github.com/MohamedMBG/CarRentingTest)** | Android app with live face verification & license scanning. | `Java` `Android` `FaceNet` |
+| **[Restaurant Booking](https://github.com/MohamedMBG/restaurant_booking)** | A streamlined booking system with a clean UI. | `React` `Laravel` |
+| **[Face Recognition](https://github.com/MohamedMBG/Face_recognition)** | Real-time face comparison demo. | `Python` `OpenCV` |
+| **[Project Manager](https://github.com/MohamedMBG/project_manager)** | Dashboard for task and client management. | `Laravel` `MySQL` |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMBG&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=dracula)
+<div align="center">
 
----
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMBG&show_icons=true&theme=dracula&hide_border=true)](https://github.com/MohamedMBG)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=dracula&hide_border=true)](https://github.com/MohamedMBG)
 
-## 📬 Get in Touch
-
-- Email: baghdadmohamed.me@gmail.com
+</div>
