@@ -53,20 +53,25 @@ Currently, I specialize in building robust ecosystems using **Laravel, React, an
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[CarRentingTest](https://github.com/MohamedMBG/CarRentingTest)** | Android app with live face verification & license scanning. | `Java` `Android` `FaceNet` |
-| **[Restaurant Booking](https://github.com/MohamedMBG/restaurant_booking)** | A streamlined booking system with a clean UI. | `React` `Laravel` |
-| **[Face Recognition](https://github.com/MohamedMBG/Face_recognition)** | Real-time face comparison demo. | `Python` `OpenCV` |
-| **[Project Manager](https://github.com/MohamedMBG/project_manager)** | Dashboard for task and client management. | `Laravel` `MySQL` |
+| **[restaurant_booking](https://github.com/MohamedMBG/restaurant_booking)** | A streamlined booking system with a clean UI. | `React` `Laravel` |
+| **[Face_recognition](https://github.com/MohamedMBG/Face_recognition)** | Real-time face comparison demo. | `Python` `OpenCV` |
+| **[project_manager](https://github.com/MohamedMBG/project_manager)** | Dashboard for task and client management. | `Laravel` `MySQL` |
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-baghdadmohamed.me@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baghdadmohamed.me@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baghdad-mohamed/)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMBG&theme=dracula&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-
+  <img src="https://streak-stats.demolab.com?user=MohamedMBG&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
