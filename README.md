@@ -71,6 +71,7 @@ Currently, I specialize in building robust ecosystems using **Laravel, React, an
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
