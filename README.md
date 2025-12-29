@@ -73,5 +73,23 @@ Currently, I specialize in building robust ecosystems using **Laravel, React, an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedMBG&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedMBG&show_icons=true&theme=dracula&hide_border=true" alt="MohamedMBG's GitHub Stats" height="155px" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" height="155px" />
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=MohamedMBG&theme=dracula&hide_border=true" alt="GitHub Streak" height="155px" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedMBG&theme=dracula&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true" alt="MohamedMBG's Activity Graph" />
+
 </div>
