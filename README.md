@@ -1,14 +1,23 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/72111111?v=4" width="150" alt="Mohamed BAGHDAD Profile Picture"/>
 
-# Hi there, I’m **Mohamed BAGHDAD** 👋
+  <h1>Hi there, I’m Mohamed BAGHDAD 👋</h1>
+  <h3>👨‍💻 Full-Stack Software Engineer | Mobile & Web Developer</h3>
+  <p>Based in Rabat, Morocco 🇲🇦</p>
 
-### 👨‍💻 Full-Stack Software Engineer | Mobile & Web Developer
-*Based in Rabat, Morocco 🇲🇦*
+  <p>
+    <a href="https://www.instagram.com/_mohamed_dev/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:baghdadmohamed.me@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/baghdad-mohamed/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:baghdadmohamed.me@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-MaxTeam%20Visual-blue?style=flat-square&logo=google-chrome)](https://maxteamvisual.com/)
-
----
+  <hr/>
 
 </div>
 
@@ -22,18 +31,18 @@ Currently, I specialize in building robust ecosystems using **Laravel, React, an
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**Frameworks & Mobile**
+**Frameworks & Mobile**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-**Cloud, Database & AI**
+**Cloud, Database & AI**  
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -59,37 +68,39 @@ Currently, I specialize in building robust ecosystems using **Laravel, React, an
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMBG&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="MohamedMBG's GitHub Stats" />
 
-### 🤝 Let's Connect
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=radical&hide_border=true" alt="MohamedMBG's Top Languages" />
 
-[![Email](https://img.shields.io/badge/Email-baghdadmohamed.me@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baghdadmohamed.me@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baghdad-mohamed/)
+  <!-- GitHub Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMBG&theme=radical&hide_border=true" alt="MohamedMBG's GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedMBG&theme=radical&no-frame=true&no-bg=true" alt="MohamedMBG's GitHub Trophies" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+I'm always open to discussing new projects, collaboration opportunities, or sharing knowledge. Feel free to reach out!
 
 <div align="center">
+  <a href="mailto:baghdadmohamed.me@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/_mohamed_dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/baghdad-mohamed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedMBG&show_icons=true&theme=dracula&hide_border=true" alt="MohamedMBG's GitHub Stats" height="155px" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" height="155px" />
-</a>
-
-<br/>
-
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=MohamedMBG&theme=dracula&hide_border=true" alt="GitHub Streak" height="155px" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedMBG&theme=dracula&bg_color=282a36&color=f8f8f2&line=bd93f9&point=ff79c6&area=true&hide_border=true" alt="MohamedMBG's Activity Graph" />
-
+<div align="center">
+  <p>Last Updated: December 2025</p>
 </div>
