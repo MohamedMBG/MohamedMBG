@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/123114744?v=4" width="150" alt="Mohamed BAGHDAD Profile Picture"/>
+  <img src="https://avatars.githubusercontent.com/u/72111111?v=4" width="150" alt="Mohamed BAGHDAD Profile Picture"/>
 
   <h1>Hi there, I’m Mohamed BAGHDAD 👋</h1>
   <h3>👨‍💻 Full-Stack Software Engineer | Mobile & Web Developer</h3>
