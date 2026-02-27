@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohamed%20Baghdad&fontSize=60&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student%20%7C%20Android%20%26%20Backend&descSize=20&descAlignY=60&descAlign=50" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Mohamed+Baghdad;Computer+Science+Engineering+Student;Android+%26+Backend+Developer" alt="Typing SVG" />
+  </a>
 
   <p>
     <a href="https://linkedin.com/in/mohamed-baghdad" target="_blank">
@@ -33,22 +35,12 @@ Currently, I am **seeking a software engineering internship** where I can contri
 
 ### **Core Stack**
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,mysql,git" alt="Core Stack"/>
 </p>
 
 ### **Working Knowledge**
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/SQLite_Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite/Room"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=laravel,php,sqlite,docker,githubactions,linux" alt="Working Knowledge"/>
 </p>
 
 ### **Engineering Focus**
@@ -136,18 +128,21 @@ Currently, I am **seeking a software engineering internship** where I can contri
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Statistics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMBG&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMBG&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMBG&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMBG&theme=transparent&hide_border=true" width="48%" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedMBG&theme=radical&no-frame=true&no-bg=true&margin-w=15" width="100%" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedMBG&bg_color=00000000&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamedMBG&theme=transparent&no-frame=true&no-bg=true&margin-w=15" width="100%" />
 </div>
 
 <!-- Language Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
 <br>
