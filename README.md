@@ -55,36 +55,49 @@ Open to a **software engineering internship** where I can work on real backend o
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🎓 [EduLife](https://github.com/MohamedMBG/EduLife) &nbsp; — full-stack learning platform
+[![lang](https://img.shields.io/github/languages/top/MohamedMBG/EduLife?style=for-the-badge&color=3B82F6)](https://github.com/MohamedMBG/EduLife)
+[![last](https://img.shields.io/github/last-commit/MohamedMBG/EduLife?style=for-the-badge&color=1E3A8A)](https://github.com/MohamedMBG/EduLife)
+![stack](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![stack](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![stack](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![stack](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<a href="https://github.com/MohamedMBG/EduLife">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=EduLife&theme=transparent&hide_border=true&show_owner=false" alt="EduLife" />
-</a>
-<a href="https://github.com/MohamedMBG/valore-backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=valore-backend&theme=transparent&hide_border=true&show_owner=false" alt="Valoré Backend" />
-</a>
+Spring Boot modular monolith with PostgreSQL + Flyway, plus Android and React clients. Server-scored MCQ exams and role-based access — scoring never touches the device.
 
-<a href="https://github.com/MohamedMBG/coffeshop_networking">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=coffeshop_networking&theme=transparent&hide_border=true&show_owner=false" alt="Bean Loyal" />
-</a>
-<a href="https://github.com/MohamedMBG/SafeBite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=SafeBite&theme=transparent&hide_border=true&show_owner=false" alt="NutriSafe / SafeBite" />
-</a>
+### 🛒 [Valoré Backend](https://github.com/MohamedMBG/valore-backend) &nbsp; — Spring Boot digital-products API
+[![lang](https://img.shields.io/github/languages/top/MohamedMBG/valore-backend?style=for-the-badge&color=3B82F6)](https://github.com/MohamedMBG/valore-backend)
+[![last](https://img.shields.io/github/last-commit/MohamedMBG/valore-backend?style=for-the-badge&color=1E3A8A)](https://github.com/MohamedMBG/valore-backend)
+![stack](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![stack](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<a href="https://github.com/MohamedMBG/BBUniversity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=BBUniversity&theme=transparent&hide_border=true&show_owner=false" alt="BBUniversity" />
-</a>
-<a href="https://github.com/MohamedMBG/bean_backedn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=bean_backedn&theme=transparent&hide_border=true&show_owner=false" alt="Bean Backend" />
-</a>
+Layered API (Controller → Service → Repository): auth, product CRUD, cart/orders, ratings & comments. Dockerized.
 
-</div>
+### ☕ [Bean Loyal](https://github.com/MohamedMBG/coffeshop_networking) &nbsp; — coffee-shop loyalty system
+[![lang](https://img.shields.io/github/languages/top/MohamedMBG/coffeshop_networking?style=for-the-badge&color=3B82F6)](https://github.com/MohamedMBG/coffeshop_networking)
+[![last](https://img.shields.io/github/last-commit/MohamedMBG/coffeshop_networking?style=for-the-badge&color=1E3A8A)](https://github.com/MohamedMBG/coffeshop_networking)
+![stack](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![stack](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![stack](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-> **[EduLife](https://github.com/MohamedMBG/EduLife)** — Spring Boot + PostgreSQL/Flyway backend, Android + React clients. Server-scored exams, role-based access.
-> **[Valoré Backend](https://github.com/MohamedMBG/valore-backend)** — layered Spring Boot API (auth, CRUD, cart/orders), Dockerized.
-> **[Bean Loyal](https://github.com/MohamedMBG/coffeshop_networking)** — full loyalty system: Android app + [Node.js backend](https://github.com/MohamedMBG/bean_backedn) + [admin app](https://github.com/MohamedMBG/Admin_Loyalty) + [web](https://github.com/MohamedMBG/bean-loyal-launchpad). Point logic secured off-device.
-> **[NutriSafe / SafeBite](https://github.com/MohamedMBG/SafeBite)** — food-safety scanner, Java + React, **[deployed live](https://nutrisafe-website.vercel.app/)** *(EMSI Tech Hackathon 2026)*.
-> **[BBUniversity](https://github.com/MohamedMBG/BBUniversity)** — role-based (admin/teacher/student) university management, Firestore-backed.
+A full product, not one app: Android customer app (MVVM, Retrofit) + [Node.js backend](https://github.com/MohamedMBG/bean_backedn) that keeps point logic off-device + [admin app](https://github.com/MohamedMBG/Admin_Loyalty) + [web launchpad](https://github.com/MohamedMBG/bean-loyal-launchpad).
+
+### 🥗 [NutriSafe / SafeBite](https://github.com/MohamedMBG/SafeBite) &nbsp; — food-safety scanner &nbsp;·&nbsp; [🌐 Live](https://nutrisafe-website.vercel.app/)
+[![lang](https://img.shields.io/github/languages/top/MohamedMBG/SafeBite?style=for-the-badge&color=3B82F6)](https://github.com/MohamedMBG/SafeBite)
+[![last](https://img.shields.io/github/last-commit/MohamedMBG/SafeBite?style=for-the-badge&color=1E3A8A)](https://github.com/MohamedMBG/SafeBite)
+![stack](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![stack](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![stack](https://img.shields.io/badge/Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+Scan food products, detect allergens, flag safer choices. Java backend + React web, shipped and deployed. *EMSI Tech Hackathon 2026 (team).*
+
+### 🏫 [BBUniversity](https://github.com/MohamedMBG/BBUniversity) &nbsp; — role-based university management
+[![lang](https://img.shields.io/github/languages/top/MohamedMBG/BBUniversity?style=for-the-badge&color=3B82F6)](https://github.com/MohamedMBG/BBUniversity)
+[![last](https://img.shields.io/github/last-commit/MohamedMBG/BBUniversity?style=for-the-badge&color=1E3A8A)](https://github.com/MohamedMBG/BBUniversity)
+![stack](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![stack](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+Three roles (admin / teacher / student), each with its own workflow: grades, timetables, absences, complaints. Firestore-backed.
 
 ---
 
@@ -108,10 +121,9 @@ Built and maintained Android apps and Laravel/REST backends for paying clients: 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMBG&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMBG&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=MohamedMBG&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="60%" alt="streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedMBG&bg_color=00000000&color=3B82F6&line=3B82F6&point=1E3A8A&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph" />
 </div>
 
 ---
