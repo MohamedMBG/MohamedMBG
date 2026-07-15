@@ -1,6 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=200&section=header&text=Mohamed%20Baghdad&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Engineer&descSize=22&descAlignY=60" width="100%" alt="header" />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Mohamed+Baghdad;Full-Stack+%26+Backend+Engineer;Java+%2F+Spring+Boot+%2F+Android+%2F+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+%2F+Spring+Boot+on+the+server;Android+%2B+React+on+the+client;I+ship+systems%2C+not+screens" alt="Typing SVG" />
   </a>
 
   <p>
@@ -51,23 +53,38 @@ Open to a **software engineering internship** where I can work on real backend o
 
 ---
 
-## Selected Projects
+## 🚀 Featured Projects
 
-### [EduLife](https://github.com/MohamedMBG/EduLife) — full-stack learning platform
-Discover → enroll → learn → exam → certificate, built as one system.
-Spring Boot modular monolith with PostgreSQL and Flyway migrations, an Android client (Java, MVVM), and a React web client. Server-scored MCQ exams and role-based access — the scoring logic never touches the device.
+<div align="center">
 
-### [Valoré Backend](https://github.com/MohamedMBG/valore-backend) — Spring Boot digital-products API
-Clean layered backend (Controller → Service → Repository) for a digital products marketplace: auth, product CRUD, cart/orders, and user interactions (favorites, ratings, comments). Dockerized.
+<a href="https://github.com/MohamedMBG/EduLife">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=EduLife&theme=transparent&hide_border=true&show_owner=false" alt="EduLife" />
+</a>
+<a href="https://github.com/MohamedMBG/valore-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=valore-backend&theme=transparent&hide_border=true&show_owner=false" alt="Valoré Backend" />
+</a>
 
-### [Bean Loyal](https://github.com/MohamedMBG/coffeshop_networking) — coffee-shop loyalty system
-A full product, not a single app: an Android customer app (MVVM, Retrofit), a [Node.js backend](https://github.com/MohamedMBG/bean_backedn) on Vercel that keeps point/reward logic off-device, an [admin & cashier app](https://github.com/MohamedMBG/Admin_Loyalty), and a [web launchpad](https://github.com/MohamedMBG/bean-loyal-launchpad). Firestore for real-time menu/profile data; ViewModels tested with Robolectric + Mockito.
+<a href="https://github.com/MohamedMBG/coffeshop_networking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=coffeshop_networking&theme=transparent&hide_border=true&show_owner=false" alt="Bean Loyal" />
+</a>
+<a href="https://github.com/MohamedMBG/SafeBite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=SafeBite&theme=transparent&hide_border=true&show_owner=false" alt="NutriSafe / SafeBite" />
+</a>
 
-### [NutriSafe / SafeBite](https://github.com/MohamedMBG/SafeBite) — food-safety scanner *(EMSI Tech Hackathon 2026, team)*
-Java backend + React web front-end for scanning food products, detecting allergens, and flagging safer choices. Shipped and deployed — [live site](https://nutrisafe-website.vercel.app/).
+<a href="https://github.com/MohamedMBG/BBUniversity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=BBUniversity&theme=transparent&hide_border=true&show_owner=false" alt="BBUniversity" />
+</a>
+<a href="https://github.com/MohamedMBG/bean_backedn">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMBG&repo=bean_backedn&theme=transparent&hide_border=true&show_owner=false" alt="Bean Backend" />
+</a>
 
-### [BBUniversity](https://github.com/MohamedMBG/BBUniversity) — role-based university management
-Android app with three roles (admin / teacher / student), each with its own workflow: students, grades, timetables, absences, and complaints. Firestore-backed, documented architecture.
+</div>
+
+> **[EduLife](https://github.com/MohamedMBG/EduLife)** — Spring Boot + PostgreSQL/Flyway backend, Android + React clients. Server-scored exams, role-based access.
+> **[Valoré Backend](https://github.com/MohamedMBG/valore-backend)** — layered Spring Boot API (auth, CRUD, cart/orders), Dockerized.
+> **[Bean Loyal](https://github.com/MohamedMBG/coffeshop_networking)** — full loyalty system: Android app + [Node.js backend](https://github.com/MohamedMBG/bean_backedn) + [admin app](https://github.com/MohamedMBG/Admin_Loyalty) + [web](https://github.com/MohamedMBG/bean-loyal-launchpad). Point logic secured off-device.
+> **[NutriSafe / SafeBite](https://github.com/MohamedMBG/SafeBite)** — food-safety scanner, Java + React, **[deployed live](https://nutrisafe-website.vercel.app/)** *(EMSI Tech Hackathon 2026)*.
+> **[BBUniversity](https://github.com/MohamedMBG/BBUniversity)** — role-based (admin/teacher/student) university management, Firestore-backed.
 
 ---
 
@@ -88,9 +105,19 @@ Built and maintained Android apps and Laravel/REST backends for paying clients: 
 
 ---
 
+## 📊 GitHub Activity
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedMBG&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMBG&theme=transparent&hide_border=true" width="48%" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMBG&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedMBG&style=flat&color=3B82F6&label=Profile+views" alt="views" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=120&section=footer" width="100%" alt="footer" />
 </div>
