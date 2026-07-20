@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+
+# Generated SVGs and contribution data are committed on purpose — do NOT ignore:
+#   avi-ascii.svg
+#   info-card.svg
+#   contrib-heatmap.svg
+#   data/contributions.json
+
+# Optional: uncomment the next line if you do NOT want your original photo
+# committed publicly. (source-prepped.png is derived and safe to keep.)
+# source-photo.jpg

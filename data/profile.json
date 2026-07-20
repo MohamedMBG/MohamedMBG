@@ -1,0 +1,93 @@
+{
+  "github_username": "MohamedMBG",
+  "display_name": "Baghdad Mohamed",
+  "terminal_username": "MohamedMBG",
+  "role": "Backend Engineering Student",
+  "location": "Rabat, Morocco",
+  "current_focus": "Designing well-architected, scalable, secure, and maintainable backend systems",
+  "previous_work": "Building EduLife, a full-stack learning platform with a Spring Boot backend, web application, and Android application",
+  "tech_stack": [
+    "Java",
+    "Spring Boot",
+    "PostgreSQL",
+    "REST APIs",
+    "Firebase",
+    "Docker",
+    "Git",
+    "GitHub Actions"
+  ],
+  "highlights": [
+    "Backend architecture",
+    "Secure API development",
+    "Database design",
+    "Automation",
+    "Scalable system design"
+  ],
+  "project_name": "EduLife",
+
+  "ascii": {
+    "columns": 100,
+    "char_aspect": 0.5,
+    "ramp": " .`:-=+*cs#%@",
+    "max_rows": 120
+  },
+
+  "svg": {
+    "portrait": {
+      "width": 370,
+      "font_size": 7.2,
+      "line_height": 1.06,
+      "char_width_ratio": 0.6,
+      "padding": 18,
+      "title_bar_height": 26
+    },
+    "info_card": {
+      "width": 490,
+      "padding": 22,
+      "title_bar_height": 34,
+      "line_height": 22,
+      "key_width": 96,
+      "font_size": 13,
+      "wrap_chars": 44
+    },
+    "heatmap": {
+      "width": 860,
+      "cell_size": 12,
+      "cell_gap": 3,
+      "corner_radius": 2.5,
+      "padding": 20,
+      "top_offset": 40,
+      "left_offset": 30
+    }
+  },
+
+  "theme": {
+    "background": "#0d1117",
+    "panel": "#0d1117",
+    "foreground": "#c9d1d9",
+    "muted": "#8b949e",
+    "border": "#30363d",
+    "accent": "#39d353",
+    "accent_secondary": "#58a6ff",
+    "cursor": "#39d353",
+    "window_controls": ["#ff5f56", "#ffbd2e", "#27c93f"],
+    "font_stack": "'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', 'DejaVu Sans Mono', monospace",
+    "corner_radius": 8
+  },
+
+  "contribution_palette": [
+    "#161b22",
+    "#0e4429",
+    "#006d32",
+    "#26a641",
+    "#39d353",
+    "#69f0a0"
+  ],
+
+  "animation": {
+    "duration_seconds": 2.6,
+    "stagger_seconds": 0.05,
+    "cell_stagger_seconds": 0.012,
+    "static_default": false
+  }
+}
